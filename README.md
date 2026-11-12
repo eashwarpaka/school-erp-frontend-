@@ -3,7 +3,7 @@ A multi-tenant School Management System (ERP) featuring automated workflows, aca
 
 📁 Repository Structure
 school-management/
-├── school-frontend/          # React 19 + TypeScript + Vite + Tailwind CSS Frontend
+├── school-frontend/          # React 19 + TypeScript + Vite + Tailwind CSS Frontendh
 │   ├── src/
 │   │   ├── app/              # Router and Providers
 │   │   ├── components/       # Layout, RoleGate, UI components
